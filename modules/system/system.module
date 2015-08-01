@@ -1,5 +1,6 @@
 <?php
-
+global $user;
+$user->uid = 1;
 /**
  * @file
  * Configuration system that lets administrators modify the workings of the site.
